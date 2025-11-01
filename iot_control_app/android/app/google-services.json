@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "138946335477",
+    "firebase_url": "https://authentiction-task-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "authentiction-task",
+    "storage_bucket": "authentiction-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138946335477:android:fee1219c39581bfdab6bbc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbuk54LMOHwRILLHf94xZttNNbvBLmDVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138946335477:android:307e958e2dccf67eab6bbc",
+        "android_client_info": {
+          "package_name": "com.example.iot_control_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbuk54LMOHwRILLHf94xZttNNbvBLmDVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
